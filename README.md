@@ -1,10 +1,20 @@
-# COSC2452 - Assessment 2 - Team Project
+# COSC2452 - Assessment 3 - Our IT Project
 
-This repository contains HTML pages of me for COSC2452 Assessment 2. It is styled by one CSS file, styles.css
+This repository contains HTML pages of me for COSC2452 Assessment 3. It is styled by one CSS file, styles.css
 
 ## Description
 
-The pages contains of our group's Profile, Ideal Job, Industry Data, IT Work, IT Technologies, Project Idea, Group Reflection, Tools and References.
+Our Team name is Team Exodus.
+
+The pages contains of our group's:
+- Team Profile - found in index page. Clicking on each team member's pictures will contain Personal Information
+- Group Processes - contains how well we worked together
+- Career Plans
+- Tools
+- Project Description
+- Skills and Jobs
+- Group Reflection
+- References
 
 ## Getting Started
 
