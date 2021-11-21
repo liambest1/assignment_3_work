@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Risks </title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@300&family=Sacramento&display=swap"
+          rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Muli%7CRoboto:400,300,500,700,900" rel="stylesheet">
+    <!-- Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap" rel="stylesheet">
+    <!-- CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.min.js" integrity="sha384-PsUw7Xwds7x08Ew3exXhqzbhuEYmA2xnwc8BuD6SEr+UmEHlX8/MCltYEodzWA4u" crossorigin="anonymous"></script>
+</head>
+
+<body >
+
+    <section id="title">
+        <div class="container-fluid" style="background-image: url('images/gray.jpg');">
+            <!-- Nav Bar -->
+
+            <nav class="navbar navbar-expand-lg navbar-dark  ">
+                <a class="navbar-brand" href="">EXODUS TEAM</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto" style="margin-left:auto">
+                      <li class="nav-item">
+                          <a class="nav-link" href="index.html">Home</a>
+                      </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="team-profile.html">Team Profile</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="careerplans.html">Career Plans</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="tools.html">Tools</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="project.html">Project Description</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="skillsandjobs.html">Skills and Jobs</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="groupreflect.html">Group Reflection</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="references.html">References</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+
+            <!-- Title -->
+
+			<main class="pageFrame">
+				<div class="card2">
+					<br>
+					<h2>Risks</h2>
+					<hr>
+						<p>There are several major risks associated with the rollout of this project, which could potentially stop the rollout of this project in its tracks. The first risk is funding of the project. It is absolutely crucial that we receive adequate funding before we begin this project. There are many professionals that will need to be hired, including the members of this team, and it may take months or years to turn a profit. While this venture is financially viable, no project is without hiccups, and we must be prepared for this and make sure we can always pay ourselves and our staff. The second risk is software issues, with the website, search engine, records database, user data and payment processing. As our company is so heavily reliant on the website operating successfully at all times, it is crucial that any software bugs be removed before the website goes live. This much is also true for future features of the product, including artificial intelligence and machine learning in the search bar. The third risk is the hiring of new staff, who can potentially steal intellectual property, sue the company or leak sensitive information about the project. Each new staff member will be required to sign non-disclosure agreements, IP addressing agreements and employment contracts. The final major risk of this project is the physical servers and hardware at our head office.  
+
+  <p/>
+
+
+
+
+
+        </main>
+
+
+        </div>
+
+
+    		</div>
+
+      </section>
+
+
+    <!-- Features -->
+
+
+
+                        <footer id="footer">
+
+                            <p class="colourw">© EXODUS TEAM 2021</p>
+
+                        </footer>
+</body>
+
+</html>
